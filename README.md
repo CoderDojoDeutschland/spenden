@@ -67,6 +67,11 @@ Folgende Formlare gibt es für Sachspenden:
     dient für eine Sammelspende aus vielen Teilen, z.B. 5 Laptops, 5 Ladekabel,
     3 Powerbanks, Arduinokästen und das alles in einem,
     um Papieraufwand zu vermeiden.
+- [Überlassenserklärung]  
+    gespendete Gegenstände liegen nicht beim Verein sondern bei Personen, die
+    sich um diese kümmern. Dieses Dokument beinhaltet die Überlassenserklärung
+    des Vereins gegenüber der Person, um dem Finanzamt klar zu machen, wo sie
+    sind und dass sie satzungsgemäß verwendet werden.
 
 ### Geldspende
 
@@ -132,6 +137,8 @@ nur muss das Kreuz hier bei Ja gesetzt werden:
     Erstattung von Leistungen gilt.
     Das ist z.B. ein ganz normaler Vertrag.
 
+Weiteres zum Lesen:
+- [Issue 2]
 
 
 ## (3) Weg der Bescheinigung
@@ -164,4 +171,6 @@ Bitte [Editiere dieses Dokument][source] selbst oder schreibe
 [Vereinbarung vor der Leistung]: bescheinigung/JJJJ-MM-TT-verzicht-erstattung-aufwand-coderdojo-deutschland-Vorname-Nachname.pdf
 [source]: https://github.com/CoderDojoDeutschland/spenden/blob/master/README.md
 [Nicco Kunzmann]: http://niccokunzmann.github.io/impressum/
+[Issue 2]: https://github.com/CoderDojoDeutschland/spenden/issues/2
+[Überlassenserklärung]: JJJJ-MM-TT-0-ueberlassen-coderdojo-deutschland-Vorname-Nachname.pdf
 
