@@ -30,7 +30,7 @@ findest Du hier was zum Lesen.
 ## (2) Welche Arten Spenden gibt es?
 
 Hier werden die Spendenarten aufgelistet und welche Formulare dazu das
-Finanzamt dazu vom Verein oder dem Spender (TODO: klären)
+Finanzamt dazu vom Verein und dem Spender
 braucht, damit diese als Spende anerkannt werden.
 Diese Formulare muss der Vorstand bzw. Stellvetretende unterschreiben.
 
@@ -122,6 +122,7 @@ nur muss das Kreuz hier bei Ja gesetzt werden:
 - [Vereinbarung vor der Leistung]  
     Dieses Dokument beschreibt, für welche Leistungen die
     Erstattung von Leistungen gilt.
+
 
 
 ## (3) Weg der Bescheinigung
