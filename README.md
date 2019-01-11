@@ -85,18 +85,22 @@ Prozess:
     - füllen [Bescheinigung 4] oder [Bescheinigung 14] aus.
         `JJJJ-MM-TT`, `Vorname` und `Nachname` werden durch den **Spender**
         ersetzt.
-    - [Überlassenserklärung] mit dem Selben Text dazu, was überlassen wird.
+    - füllen die [Überlassenserklärung] mit dem selben Text dazu aus,
+        was überlassen wird.
         `JJJJ-MM-TT`, `Vorname` und `Nachname` werden durch den **Empfänger**
         ersetzt.
 2. Der Empfänger sendet diese Dokumente an den Vorstand des
     CoderDojo-Deutschland e.V.
 3. Der Vorstand sendet die unterschriebenen Dokumente zurück an den Empfänger
     und sichert diese.
-    Zu beachten ist:
-    - Spendenbescheinigung und Überlassenserklärung müssen immer zusammen,
-        nie einzeln gesendet werden, da sonst eine Lücke entsteht, wo der
-        Verein etwas vor dem Finanzamt nicht nachweisen kann und somit
-        für etwas haftet, worüber er keine Gewalt mehr hat.
+    Damit der Verein nicht in einen Zustand kommt, in dem er
+    auf Papier über Güter verfügt, die er garnicht hat, gelten folgende Punkte
+    für den Vorstand. Diesen Zustand wollen wir vermeiden, weil der Verein oder
+    Vorstand sonst für die entgangene Steuer haftet.
+    - Die Überlassenserklärung wird erst dann vom Vorstand unterschrieben,
+        wenn der Vorstand die Unterschrift des Empfängers auf dem Dokument hat.
+    - Die Spendenbescheinigung wird erst dann ausgestellt, wenn die
+        Überlassenserklärung unterschrieben vorliegt.
     
 
 ### Geldspende
