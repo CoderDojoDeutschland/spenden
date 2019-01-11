@@ -94,6 +94,14 @@ gesetzt werden:
 
 ### Aufwandspende
 
+Diese Spenden können nicht für die Mentorenleistung ausgestellt werden,
+da der CoderDojo Deutschland e.V. die Mentoren nicht bezahlt.
+
+> CoderDojos sind freie, ehrenamtliche, gemeinschaftlich betriebene Klubs.  
+> - https://coderdojo.com/about/
+
+In raren Fällen, wo wir Leute bezahlen, hier der Text:
+
 > Mäht ein Nachbar z.B. freiwillig den Rasen des Vereinsgeländes und
 > verzichtet auf seine Bezahlung, ist dies eine Aufwandsspende.
 > Auch unser oberes Beispiel mit Emanuel ist eine Aufwandsspende.
@@ -119,9 +127,10 @@ nur muss das Kreuz hier bei Ja gesetzt werden:
 - [Bescheinigung 13]  
     dient für eine Sammelspende.
     Das ist nützlich, wenn die Aufwendung bei mehreren CoderDojos stattfindet.
-- [Vereinbarung vor der Leistung]  
+- *Vereinbarung vor der Leistung*  
     Dieses Dokument beschreibt, für welche Leistungen die
     Erstattung von Leistungen gilt.
+    Das ist z.B. ein ganz normaler Vertrag.
 
 
 
