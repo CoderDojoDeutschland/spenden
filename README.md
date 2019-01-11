@@ -172,5 +172,5 @@ Bitte [Editiere dieses Dokument][source] selbst oder schreibe
 [source]: https://github.com/CoderDojoDeutschland/spenden/blob/master/README.md
 [Nicco Kunzmann]: http://niccokunzmann.github.io/impressum/
 [Issue 2]: https://github.com/CoderDojoDeutschland/spenden/issues/2
-[Überlassenserklärung]: JJJJ-MM-TT-0-ueberlassen-coderdojo-deutschland-Vorname-Nachname.pdf
+[Überlassenserklärung]: bescheinigung/JJJJ-MM-TT-0-ueberlassen-coderdojo-deutschland-Vorname-Nachname.pdf
 
