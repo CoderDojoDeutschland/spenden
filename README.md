@@ -73,6 +73,32 @@ Folgende Formlare gibt es für Sachspenden:
     des Vereins gegenüber der Person, um dem Finanzamt klar zu machen, wo sie
     sind und dass sie satzungsgemäß verwendet werden.
 
+#### Prozesscheckliste zum Spenden von Sachen
+
+Es gibt diese Personen:
+- Der **Spender** gibt die Sachen ab.
+- Der **Empfänger** nimmt die Sachen entgegen (Besitz), ist z.B. Mitglied im Verein.
+- Der **Verein** vertreten durch den Vorstand erhält das Eigentum.
+
+Prozess:
+1. Spender und Empfänger:
+    - füllen [Bescheinigung 4] oder [Bescheinigung 14] aus.
+        `JJJJ-MM-TT`, `Vorname` und `Nachname` werden durch den **Spender**
+        ersetzt.
+    - [Überlassenserklärung] mit dem Selben Text dazu, was überlassen wird.
+        `JJJJ-MM-TT`, `Vorname` und `Nachname` werden durch den **Empfänger**
+        ersetzt.
+2. Der Empfänger sendet diese Dokumente an den Vorstand des
+    CoderDojo-Deutschland e.V.
+3. Der Vorstand sendet die unterschriebenen Dokumente zurück an den Empfänger
+    und sichert diese.
+    Zu beachten ist:
+    - Spendenbescheinigung und Überlassenserklärung müssen immer zusammen,
+        nie einzeln gesendet werden, da sonst eine Lücke entsteht, wo der
+        Verein etwas vor dem Finanzamt nicht nachweisen kann und somit
+        für etwas haftet, worüber er keine Gewalt mehr hat.
+    
+
 ### Geldspende
 
 > Geldspenden sind Geldüberweisungen oder Übergaben von Bargeld,
@@ -96,6 +122,10 @@ Da es sich um eine Geldspende handelt, muss das Kreuz hier auf Nein
 gesetzt werden:
 
 > Es handelt sich um einen Verzicht auf Erstattung von Aufwendungen [ ] Ja [X] Nein
+
+#### Prozesscheckliste zum Spenden von Geld
+
+TODO
 
 ### Aufwandspende
 
@@ -140,12 +170,12 @@ nur muss das Kreuz hier bei Ja gesetzt werden:
 Weiteres zum Lesen:
 - [Issue 2]
 
+#### Prozesscheckliste zum Spenden von Aufwand
 
-## (3) Weg der Bescheinigung
-
-
-
-
+Der Prozess zum Spenden von Aufwand ist wie der zum Spenden von Geld,
+nur dass hier auch eine Kopie der *Vereinbarung vor der Leistung* dem Verein
+vorliegen muss und als Kopie mit fast gleichem Namen neben der
+Spendenbescheinigung durch den Vorstand gesichert wird.
 
 Weiteres zum Lesen
 ------------------
