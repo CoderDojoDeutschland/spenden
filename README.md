@@ -155,6 +155,8 @@ Weiteres zum Lesen
 > vom Finanzamt besitzt. Dieser Nachweis heißt „Freistellungsbescheid“.  
 > - https://deutsches-ehrenamt.de/steuern/spendenbescheinigungen-verein/
 
+- [Quelle für den Text zur unentgletlichen Überlassung][quelle-üeberlassung].
+
 ---
 
 Bitte [Editiere dieses Dokument][source] selbst oder schreibe
@@ -173,4 +175,5 @@ Bitte [Editiere dieses Dokument][source] selbst oder schreibe
 [Nicco Kunzmann]: http://niccokunzmann.github.io/impressum/
 [Issue 2]: https://github.com/CoderDojoDeutschland/spenden/issues/2
 [Überlassenserklärung]: bescheinigung/JJJJ-MM-TT-0-ueberlassen-coderdojo-deutschland-Vorname-Nachname.pdf
+[quelle-überlassung]: http://radar-frankfurt.de/sites/all/files/attachments/vertrag_unentgeltliche_ueberlassung_0.pdf
 
