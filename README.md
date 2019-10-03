@@ -181,6 +181,25 @@ nur dass hier auch eine Kopie der *Vereinbarung vor der Leistung* dem Verein
 vorliegen muss und als Kopie mit fast gleichem Namen neben der
 Spendenbescheinigung durch den Vorstand gesichert wird.
 
+Fragen und Antworten
+--------------------
+
+
+- Muss der Empfänger einer Sachspende Mitglied im Verein Coderdojo Deutschland e. V. sein?  
+    Der Empfänger muss kein Mitglied sein.
+    Es ist wichtig, dass die Sache für den Satzungszweck verwendet wird.
+    Es geht hier über den Eigentumsübergang an den Verein.
+    Die Sache muss nicht im Besitz des Mitglieds sein.
+- Können Spender (Zuwendender laut Formular 4 und 14) und Nutzer
+    (laut Überlassungserklärung) ein und die selbe Person sein?  
+    Ja, Spender und Nutzer können die selbe Person sein.
+    Das sind nur zwei Namen für Rollen in zwei verschiedenen Beziehungen.
+    Du kannst deine eigenen Sachen dem Verein spenden und dann satzungsgemäß verwenden.
+- Sind die Formulare 3, 4, 13 und 14 auch gleichzeitig die Spendenbescheinigungen oder
+    ist die Spendenbescheinigung ein eigenes von Euch ausgestelltes Dokument?  
+    Das sind die offiziellen Spendenbescheinugungen.
+    Die sind aber nur gültig, wenn der Vorstand unterschreibt.
+
 Weiteres zum Lesen
 ------------------
 
