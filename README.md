@@ -219,8 +219,8 @@ Bitte [Editiere dieses Dokument][source] selbst oder schreibe
 
 [§51 Abgabenordnung]: https://www.gesetze-im-internet.de/ao_1977/__51.html
 [§5(1).9 Abgabenverordnung]: https://www.gesetze-im-internet.de/kstg_1977/__5.html
-[Bescheinigung 3]: bescheinigung/JJJJ-MM-TT-3-mitgliedsbeitrag-coderdojo-deutschland-Vorname-Nachname.pdf
-[Bescheinigung 13]: bescheinigung/JJJJ-MM-TT-13-mitgliedsbeitrag-coderdojo-deutschland-Vorname-Nachname.pdf
+[Bescheinigung 3]: bescheinigung/JJJJ-MM-TT-3-geldzuwendung-coderdojo-deutschland-Vorname-Nachname.pdf
+[Bescheinigung 13]: bescheinigung/JJJJ-MM-TT-13-geldzuwendung-coderdojo-deutschland-Vorname-Nachname.pdf
 [Bescheinigung 4]: bescheinigung/JJJJ-MM-TT-4-sachzuwendung-coderdojo-deutschland-Vorname-Nachname.pdf
 [Bescheinigung 14]: bescheinigung/JJJJ-MM-TT-14-sachzuwendung-coderdojo-deutschland-Vorname-Nachname.pdf
 [Vereinbarung vor der Leistung]: bescheinigung/JJJJ-MM-TT-verzicht-erstattung-aufwand-coderdojo-deutschland-Vorname-Nachname.pdf
