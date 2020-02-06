@@ -208,7 +208,7 @@ Weiteres zum Lesen
 > vom Finanzamt besitzt. Dieser Nachweis heißt „Freistellungsbescheid“.  
 > - https://deutsches-ehrenamt.de/steuern/spendenbescheinigungen-verein/
 
-- [Quelle für den Text zur unentgletlichen Überlassung][quelle-üeberlassung].
+- [Quelle für den Text zur unentgletlichen Überlassung][quelle-überlassung].
 
 ---
 
